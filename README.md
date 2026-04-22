@@ -2,7 +2,7 @@
 
 A collection of Excel-based data analysis projects focused on the **data science job market**, exploring salary trends, in-demand skills, and regional compensation differences using real-world job posting data from 2023.
 
-🔗 **Repository:** [github.com/Abanoub-attia/ecxel_data_analysis_projects](https://github.com/Abanoub-attia/ecxel_data_analysis_projects.git)
+🔗 **Repository:** [github.com/Abanoub-attia/excel_data_analysis_projects](https://github.com/Abanoub-attia/excel_data_analysis_projects.git)
 
 ---
 
